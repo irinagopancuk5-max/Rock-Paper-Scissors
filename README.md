@@ -1,10 +1,10 @@
-Console game: player vs computer.
+Simple C++ practice project.
 
 ## Features
-- Random computer choice
-- Win/lose/draw system
+- Basic console interaction
+- Simple logic structure
 
 ## What I learned
-- Conditions
-- Random logic
-- Game structure
+- C++ basics
+- Input/output
+- Program flow
