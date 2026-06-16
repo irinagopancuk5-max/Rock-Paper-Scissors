@@ -1,4 +1,4 @@
-# Rock Paper Scissors (C++)
+# Yuzefa (C++)
 
 ## 📌 About
 A simple console game against the computer.
