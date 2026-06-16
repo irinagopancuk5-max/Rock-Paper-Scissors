@@ -1,22 +1,10 @@
-# Yuzefa (C++)
+Console game: player vs computer.
 
-Simple console game: player vs computer.
-
----
-
-## ⚙ Features
-- Player vs computer
+## Features
 - Random computer choice
-- Win / lose / draw logic
+- Win/lose/draw system
 
----
-
-## 🎯 What I learned
-- Random values
-- Conditional logic
+## What I learned
+- Conditions
+- Random logic
 - Game structure
-
----
-
-## 🚀 Status
-Beginner project
